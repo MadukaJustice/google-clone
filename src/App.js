@@ -6,6 +6,9 @@ function App() {
         <div>
             <Button title='HELLO' />
             <img src='' alt='' />
+            <div>
+              Hello there
+            </div>
         </div>
       )
   }
